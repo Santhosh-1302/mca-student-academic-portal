@@ -37,7 +37,6 @@ A production system would require a secure server-side API, but that is intentio
 | Admin | admin@mca.edu | Admin@123 |
 
 ## MySQL
-
 Open `database/mca_student_portal.sql` in MySQL Workbench and execute it.
 
 ## Modules
